@@ -61,7 +61,7 @@ Wese 4808
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M606/PHOTOS/19xx - M606 - wbsps - module - m606 monitor amp - front.jpg",
+ "file": "Modules/AMPLIFIERS/M606/MANUALS/19xx - M606 - wbsps - module - m606 monitor amp - front.jpg",
  "sha256": "4bff8205f825069ad6e38fa4cf8bd7928693354a542cd8d32ac8eaa66e1c3646",
  "kind": "module",
  "models": [

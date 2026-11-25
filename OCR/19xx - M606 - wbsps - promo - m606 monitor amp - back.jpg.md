@@ -71,7 +71,7 @@ WARD-BECK SYSTEMS LTD_
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M606/PHOTOS/19xx - M606 - wbsps - promo - m606 monitor amp - back.jpg",
+ "file": "Modules/AMPLIFIERS/M606/MANUALS/19xx - M606 - wbsps - promo - m606 monitor amp - back.jpg",
  "sha256": "f63db283e21fd5c260a47b178f107175a771e2b8b9a7a9cf283d5f8545b75f1e",
  "kind": "module",
  "models": [

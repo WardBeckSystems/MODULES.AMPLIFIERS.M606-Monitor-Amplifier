@@ -55,7 +55,7 @@ ECenedaCLOC DNTAANO
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M606/PHOTOS/19xx - M606 - wbsps - module - m606 monitor amp - back.jpg",
+ "file": "Modules/AMPLIFIERS/M606/MANUALS/19xx - M606 - wbsps - module - m606 monitor amp - back.jpg",
  "sha256": "0520a31431ef306a5b7819aeeb6655edec3d93cfe13e6dba93f663f1cf3a8e4c",
  "kind": "module",
  "models": [

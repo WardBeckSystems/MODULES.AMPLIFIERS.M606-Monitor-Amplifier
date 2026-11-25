@@ -1,5 +1,5 @@
 # 19xx - M606 - wbsps - promo - m606 monitor amp - 004.jpg
-Wiki page: [M606](../../../PAGES/M606.md)
+Wiki page: [M606](../../../../PAGES/M606.md)
 
 
 - **Year:** unknown (unknown)
@@ -37,7 +37,7 @@ M6o6
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M606/19xx - M606 - wbsps - promo - m606 monitor amp - 004.jpg",
+ "file": "Modules/AMPLIFIERS/M606/PHOTOS/19xx - M606 - wbsps - promo - m606 monitor amp - 004.jpg",
  "sha256": "92842b766bfefd3ad01ea7049df1b053f4ea6c33079566f1bd34d67e05bba8f2",
  "kind": "module",
  "models": [

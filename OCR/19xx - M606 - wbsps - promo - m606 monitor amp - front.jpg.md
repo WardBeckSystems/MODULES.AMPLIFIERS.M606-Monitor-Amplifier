@@ -1,5 +1,5 @@
 # 19xx - M606 - wbsps - promo - m606 monitor amp - front.jpg
-Wiki page: [M606](../../../PAGES/M606.md)
+Wiki page: [M606](../../../../PAGES/M606.md)
 
 
 - **Year:** unknown (unknown)
@@ -63,7 +63,7 @@ Active elements contained on plug-in subsidiary PC card
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M606/19xx - M606 - wbsps - promo - m606 monitor amp - front.jpg",
+ "file": "Modules/AMPLIFIERS/M606/PHOTOS/19xx - M606 - wbsps - promo - m606 monitor amp - front.jpg",
  "sha256": "9facac32189796dd122ab097982065db4aa33e33ff686b5c50eee8e1457ac99b",
  "kind": "module",
  "models": [

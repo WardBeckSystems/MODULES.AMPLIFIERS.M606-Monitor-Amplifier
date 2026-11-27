@@ -1,0 +1,50 @@
+{
+ "module": "M606",
+ "title": "",
+ "source": {
+  "file": "MANUALS/19xx - M606 - wbsps - promo - m606 monitor amp - back.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.95,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "k ohms LOAD IMPEDANCE 8 ohms nominal, 4 or 16 ohms with appropriate power output correction_ OUTPUT IMPEDANCE Less than 0.5 ohms PHASING The low terminal number of the input pair is in phase with the direct output terminal POWER REQUIREMENTS 115V ac, 6OHz, 2OVA AMBIENT TEMPERATURE 08 to 60'c DIMENSIONS 1.7W x 3.4H x 13.7D inches WEIGHT 3 Ibs. net",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "ohms"
+    },
+    {
+     "value": 16,
+     "unit": "ohms"
+    },
+    {
+     "value": 0.5,
+     "unit": "ohms"
+    },
+    {
+     "value": 115,
+     "unit": "V ac"
+    },
+    {
+     "value": 1.7,
+     "unit": "W"
+    }
+   ]
+  },
+  {
+   "name": "Accessories",
+   "key": "accessories",
+   "text": "MF6 -600 Series Mounting Frame 19W 3.5H 14.50 (less rear cable tray and cover) Standard EIA rack mounting: Accommodates ten M606 modules or any combination of single, double or quadruple units not exceeding ten single width modules: MFR6 -600 Series Frame Receptacle. One required per M606.2000 ELLESMERE AOAD; SCARBOROUGH, ONTARIO 416/291-2106",
+   "quantities": [
+    {
+     "value": 19,
+     "unit": "W"
+    }
+   ]
+  }
+ ]
+}

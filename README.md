@@ -13,6 +13,21 @@ Ward-Beck Systems M606. Wiki page: [M606 on WBSps.ca](https://wardbecksystems.gi
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 8 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [2 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M606 - wbsps - promo - m606 monitor amp - back.jpg](MANUALS/19xx%20-%20M606%20-%20wbsps%20-%20promo%20-%20m606%20monitor%20amp%20-%20back.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Input impedance** | k ohms LOAD IMPEDANCE 8 ohms nominal, 4 or 16 ohms with appropriate power output correction_ OUTPUT IMPEDANCE Less than 0.5 ohms PHASING The low terminal number of the input pair is in phase with the direct output terminal POWER REQUIREMENTS 115V ac, 6OHz, 2OVA AMBIENT TEMPERATURE 08 to 60'c DIMENSIONS 1.7W x 3.4H x 13.7D inches WEIGHT 3 Ibs. net |
+| **Accessories** | MF6 -600 Series Mounting Frame 19W 3.5H 14.50 (less rear cable tray and cover) Standard EIA rack mounting: Accommodates ten M606 modules or any combination of single, double or quadruple units not exceeding ten single width modules: MFR6 -600 Series Frame Receptacle. One required per M606.2000 ELLESMERE AOAD; SCARBOROUGH, ONTARIO 416/291-2106 |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

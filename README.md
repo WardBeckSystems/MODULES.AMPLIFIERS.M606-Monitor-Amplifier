@@ -1,11 +1,11 @@
-# M606 · Amplifiers
+# M606 Monitor Amplifier · Amplifiers
 
 Ward-Beck Systems M606. Wiki page: [M606 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M606.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 5 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 5 |

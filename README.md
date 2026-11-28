@@ -1,6 +1,6 @@
 # M606 Monitor Amplifier · Amplifiers
 
-Ward-Beck Systems M606. Wiki page: [M606 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M606.html)
+Ward-Beck Systems M606. Wiki page: [M606 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M606-Monitor-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 19xx - M606 - wbsps - promo - m606 monitor amp - 004.jpg
-Wiki page: [M606](../../../../PAGES/M606.md)
+Wiki page: [M606](../)
 
 
 - **Year:** unknown (unknown)

@@ -1,5 +1,5 @@
 # 19xx - M606 - wbsps - module - m606 monitor amp - front.jpg
-Wiki page: [M606](../../../../PAGES/M606.md)
+Wiki page: [M606](../)
 
 
 - **Year:** unknown (unknown)
